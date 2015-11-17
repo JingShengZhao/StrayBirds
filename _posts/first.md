@@ -1,6 +1,6 @@
 --
 layout: post
-title: 飞鸟集
+title: text
 category: 生活
 comments: true
 ---
